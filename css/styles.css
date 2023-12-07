@@ -59,19 +59,19 @@ ul.topnav li.right {
 }
 
 #gauche{
-    background-image:url(topfondgauche.jpg) ;
+    background-image:url(../../topfondgauche.JPG) ;
     float: left; 
     width: 15%; 
 }
 
 #centre{
-    background-image:url(topfondcentre.jpg) ;
+    background-image:url(../../topfondcentre.jpg) ;
     margin-right: 15%;
     margin-left: 15%;
 }
 
 #droite{
-    background-image:url(topfonddroite.jpg) ;
+    background-image:url(../../topfonddroite.jpg) ;
     float: right; 
     width: 15%; 
 }
