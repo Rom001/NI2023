@@ -1,3 +1,3 @@
 # NI2023
 
-Ceci est le Site principale de la nuit de l'info
+Ceci est le Site principal de la nuit de l'info
