@@ -61,10 +61,10 @@ ul.topnav li.right {
 
 #gauche{
     float: left; 
-    width: 10%; 
+    width: 30px; 
 }
 
 #droite{
-    float: left; 
-    width: 90%; 
+    float: right; 
+    width: 30px; 
 }
