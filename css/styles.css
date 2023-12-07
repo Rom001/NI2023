@@ -40,11 +40,11 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover:not(.active) {
-    background-color: red;
+    background-color: green;
 }
 
 ul.topnav li a.active {
-    background-color: red;
+    background-color: green;
 }
 
 ul.topnav li.right {
