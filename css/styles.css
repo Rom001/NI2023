@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-size: cover;
+    background-image: url(../topfondcentre.JPG);
     color: white;
 }
 
@@ -59,20 +60,11 @@ ul.topnav li.right {
 }
 
 #gauche{
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    width: 50px; 
-}
-
-#centre{
-    margin-right: 50px;
-    margin-left: 50px;
+    float: left; 
+    width: 10%; 
 }
 
 #droite{
-    position: absolute; 
-    top: 0; 
-    right: 0; 
-    width: 50px; 
+    float: right; 
+    width: 10%; 
 }
