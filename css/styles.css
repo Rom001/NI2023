@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(../Image/fond_top-bar.png);
     background-size: cover;
     color: white;
 }
@@ -57,4 +56,22 @@ ul.topnav li.right {
     ul.topnav li {
         float: none;
     }
+}
+
+#gauche{
+    background-image:url(topfondgauche.jpg) ;
+    float: left; 
+    width: 15%; 
+}
+
+#centre{
+    background-image:url(topfondcentre.jpg) ;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+#droite{
+    background-image:url(topfonddroite.jpg) ;
+    float: right; 
+    width: 15%; 
 }
