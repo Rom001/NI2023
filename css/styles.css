@@ -59,7 +59,6 @@ ul.topnav li.right {
 }
 
 #gauche{
-    background-image:url(../../topfondgauche.JPG) ;
     float: left; 
     width: 15%; 
 }
