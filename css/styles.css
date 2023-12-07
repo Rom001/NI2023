@@ -60,15 +60,15 @@ ul.topnav li.right {
 
 #gauche{
     float: left; 
-    width: 15%; 
+    width: 50px; 
 }
 
 #centre{
-    margin-right: 15%;
-    margin-left: 15%;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 #droite{
     float: right; 
-    width: 15%; 
+    width: 50px; 
 }
