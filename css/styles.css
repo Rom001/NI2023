@@ -83,3 +83,23 @@ ul.topnav li.right {
 .bot{
     margin-bottom: 300px;
 }
+
+.global {
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 50px;
+    background-color: #333;
+    color: white;
+}
+
+.partiel {
+    flex: 1;
+    padding: 1em;
+    border: none;
+}
+
+.partiel:hover {
+    background-color: #4e4e4e;
+}
